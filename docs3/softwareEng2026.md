@@ -1,3 +1,9 @@
+---
+layout: page
+title: "software Eng. lecture note
+permalink: /docs3/softwareEng2026
+---
+
 ## 第2回
 第2回では、ソフトウェアの基本的な定義や構造から、単なるプログラミングと「ソフトウェア工学」の違いやこれらが必要とされる背景について学んだ。
 
